@@ -56,6 +56,11 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
+--The tables are in the png diagram. Type 1 SCD and Type 2 is labelled. The difference between the two tables are the efficiency in updating the information. Table 1 will overwrite the data when used the UPDATE command while the Type 2 will keep the old data and add the new data using the INSERT command and change the end date for the address that was on the database. 
+
+
+
+
 
 ***
 
